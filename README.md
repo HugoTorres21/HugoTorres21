@@ -21,7 +21,7 @@ aprimorar minhas habilidades.
             src="https://custom-icon-badges.demolab.com/github/stars/HugoTorres21?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://www.linkedin.com/in/hugo-torres-6556912b7/">
+    <a href="https://www.linkedin.com/in/hugotorres21/">
         <img 
             alt="Linkedin" 
             title="Me siga no Linkedin" 
